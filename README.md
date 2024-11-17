@@ -1,1 +1,1 @@
-# cs5700-project6
+# Project 6: DNS Server
